@@ -1,0 +1,8 @@
+:root{
+    --cor-de-fundo:pink;
+}
+body{
+    background-color:var(--cor-de-fundo);
+}
+
+    
